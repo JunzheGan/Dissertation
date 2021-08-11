@@ -1,4 +1,4 @@
-Please download all files in this folder to avoid errors while running the model
+Please download all the files in this folder to avoid errors while running the model
 
 The live driver fatigue detection is demostrated in Final.IPYNB
 
