@@ -1,4 +1,4 @@
 
-The training data for both models are very large and cannot be uploaded to github
+The training dataset is very large so please download and unzip it
 
-For the eye_model, the dataset used is MRL Eye Dataset, it can be found at http://mrl.cs.vsb.cz/eyedataset 
+The dataset used is sourced from MRL Eye Dataset, it can be found at http://mrl.cs.vsb.cz/eyedataset 
